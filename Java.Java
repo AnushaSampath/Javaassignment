@@ -22,9 +22,9 @@ class Employee {
 public class EmployeeManagement {
     public static void main(String[] args) {
         // Creating Employee objects
-        Employee emp1 = new Employee(101, "Alice", 50000);
-        Employee emp2 = new Employee(102, "Bob", 60000);
-        Employee emp3 = new Employee(103, "Charlie", 55000);
+        Employee emp1 = new Employee(101, "Anusha", 50000);
+        Employee emp2 = new Employee(102, "sharath", 60000);
+        Employee emp3 = new Employee(103, "Chandan", 55000);
 
         // Storing them in a list
         List<Employee> employees = new ArrayList<>();
